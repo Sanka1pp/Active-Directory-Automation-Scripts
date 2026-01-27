@@ -72,7 +72,7 @@ If you haven’t classified the identity, **you are not ready to attack it**.
 
 ### Clone
 ```bash
-git clone https://github.com/<your-username>/schemafirst.git
+git clone https://github.com/Sanka1pp/Active-Directory-Automation-Scripts/blob/main/schemafirst.py
 cd schemafirst
 python3 schemafirst.py
 ```
