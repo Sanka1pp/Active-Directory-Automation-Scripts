@@ -1,7 +1,6 @@
 # SchemaFirst
 
-**Schema-first Active Directory identity classification.  
-Identify before you attack.**
+**SchemaFirst – Identify AD account identity truth before enumeration or attack.**
 
 ---
 
@@ -129,6 +128,3 @@ Primary Risk Surface : Permissions / trust abuse
 ```
 ---
 
-
-git clone https://github.com/Sanka1pp/Active-Directory-Automation-Scripts.git
-cd Active-Directory-Automation-Scripts
